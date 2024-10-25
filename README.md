@@ -8,7 +8,7 @@
 
 - 🎮 Experimentado en la Scene de Nintendo
 - 🐍 Empezando en Python y en diseño web
-- 🧑‍💼 CEO de Range Near y Kam Developers.
+- 🧑‍💼 [CEO de LEVEL TEAM LTD.](https://level-team.jimdosite.com/)
 - 💬 Soporte de Scene en [Homebrew Central](https://discord.gg/QuMxeWGAMF)
 <br>
 
