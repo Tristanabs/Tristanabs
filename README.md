@@ -8,7 +8,7 @@
 
 - 🎮 Experimentado en la Scene de Nintendo
 - 🐍 Empezando en Python y en diseño web
-- 🧑‍💼 [CEO de LEVEL TEAM LTD.](https://levelt.me)
+- 🧑‍💼 [CEO de Level T.](https://levelt.me)
 - 💬 Soporte de Scene en [Homebrew Central](https://discord.gg/QuMxeWGAMF)
 <br>
 
