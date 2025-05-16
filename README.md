@@ -13,9 +13,10 @@
 <br>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Stats
 
-<p align="center">
-<a href="https://github.com/Tristanabs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tristanabs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristanabs&show_icons=true&theme=codeSTACKr)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanabs&layout=compact)
+
  
