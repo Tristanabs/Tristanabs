@@ -8,15 +8,12 @@
 
 - 🎮 Experimentado en la Scene de Nintendo
 - 🐍 Empezando en Python y en diseño web
-- 🧑‍💼 [CEO de Level T.](https://levelt.me)
+- 🧑‍💼 [CEO de Flagwave.](https://flagwave.es)
 - 💬 Soporte de Scene en [Homebrew Central](https://discord.gg/QuMxeWGAMF)
 <br>
 
 
 ### ⚙️ &nbsp;GitHub Stats
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristanabs&show_icons=true&theme=codeSTACKr)
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanabs&layout=compact)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristanabs)]
  
